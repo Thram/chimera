@@ -4,8 +4,10 @@ Cordova/Crosswalk boilerplate for Hybrid Apps
 ### Follow this basic steps to install Cordova and the Crosswalk Plugin: 
 https://crosswalk-project.org/documentation/cordova/cordova_4.html
 
-### For more plugins check: 
-http://ngcordova.com/docs/plugins/
+### For more plugins check:
+https://cordova.apache.org/plugins/
+
+http://ngcordova.com/docs/plugins/ (For AngularJS Projects) 
 
 
 ---
