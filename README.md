@@ -1,4 +1,7 @@
 # chimera
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Thram/chimera.svg)](https://greenkeeper.io/)
+
 Cordova/Crosswalk boilerplate for Hybrid Apps
 
 ### Follow this basic steps to install Cordova and the Crosswalk Plugin: 
