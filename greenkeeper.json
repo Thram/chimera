@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "plugins/cordova-plugin-crosswalk-webview/package.json",
+        "plugins/cordova-plugin-whitelist/package.json"
+      ]
+    }
+  }
+}
